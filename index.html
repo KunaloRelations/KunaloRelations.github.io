@@ -8,6 +8,7 @@
 
     <!-- Le styles -->
     <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/kunalo.css" rel="stylesheet">
     <style type="text/css">
       body {
         padding-top: 60px;
@@ -163,7 +164,7 @@ Kunalo seeks to nurture creativity, helping people to write beautiful software a
 <br>
 <br>
 <div class="row">
-  <div class="span6">
+  <div class="span6 offset3">
     <img src="img/gigi_craig.png">
   </div>
 </div>
@@ -185,7 +186,7 @@ Kunalo seeks to nurture creativity, helping people to write beautiful software a
 
        </div>
 
-	<div class="span5">
+	<div class="span5 offset2">
           <h3>Gigi Read, president</h3>
            <p>Gigi is a passionate advocate of developer rights and a leading voice in 
 	     Silicon Valley's push to create greater awareness of women in technology.  
@@ -217,29 +218,35 @@ Kunalo seeks to nurture creativity, helping people to write beautiful software a
 
       <!-- row of columns -->
       <div class="row">
-        <div class="span4">
+        <div class="span5">
            <h3 id="contact">Contact</h3>
 	  	    <br>Kunalo Relations, Inc.,
 	    <br>Location: Palo Alto, California, Silicon Valley
-	    <br>Phone: 650-489-5778
+	    <br>Phone: <a href="tel:+1 650-489-5778">650-489-5778</a>
 	    <br>Email: info@kunalo.com
-
 	    <br>Twitter: @kunalo_r
 
         </div>
-        <div class="span5">
+        <div class="span6 offset1">
           <h3>Fun Facts</h3>
-	  <br>Programming languages we like: C, JavaScript, Python, Java, HTML5
-	  <br>Hobbies: We all like to go camping in Yosemite
-	  <br>Cars: We've all had a Porsche Carrera in our lives
-	  <br>Sports: Someone does kick boxing, someone does ballet, someone surfs.  Guess who?
-	  <br>IDEs and Editors: Someone likes PyCharm from JetBrains, someone like Emacs for everything.
+            <dl>
+                <dt>Programming languages we like</dt>
+                    <dd>C, JavaScript, Python, Java, HTML5</dd>
+                <dt>Hobbies</dt>
+                    <dd> We all like to go camping in Yosemite</dd>
+                <dt>Cars</dt>
+                    <dd>We've all had a Porsche Carrera in our lives</dd>
+                <dt>Sports</dt>
+                    <dd>Someone does kick boxing, someone does ballet, someone surfs.  Guess who?</dd>
+                <dt>IDEs and Editors</dt>
+                    <dd>Someone likes PyCharm from JetBrains, someone like Emacs for everything.</dd>
+            </dl>
        </div>
 	</div>
       <br>
       <br>
       <div class="row">
-        <div class="span8">
+        <div class="span12">
           <h3 id="kunalo">What Does Kunalo Mean?</h3>
           <p>KuNalo - The wisdom of ancient gods applied to developer relations</p>
 	  <p> A thousand years ago, four major gods existed in ancient Hawaii.  
@@ -275,26 +282,14 @@ Kunalo seeks to nurture creativity, helping people to write beautiful software a
 
 
 <!--    BEGIN SERVICES SECTION     -->
-<p>
-<p>
-<h2 id="services"> Services</h2>
-<br>
-<br>
-
-<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0" class="sites-layout-name-one-column sites-layout-hbox">
-    <tbody>
-    <tr>
-        <td class="sites-layout-tile sites-tile-name-content-1">
-            <div dir="ltr">
-                <div style="text-align:left;display:block;margin-right:auto;margin-left:auto">Building strong, mutually beneficial relationships with developers is an ongoing process.  Kunalo sells services based on an ongoing retainer plus individual project fees.  In some cases, Kunalo will also take on project work without the retainer.
-                </div>
-            <div style="text-align:left;display:block;margin-right:auto;margin-left:auto"><br />
-            </div>
-            </div>
-        </td>
-    </tr>
-    </tbody>
-</table>
+<div class="row">
+    <div class="span12">
+        <h2 id="services"> Services</h2>
+            <p>
+                Building strong, mutually beneficial relationships with developers is an ongoing process.
+                Kunalo sells services based on an ongoing retainer plus individual project fees.  In some cases,
+                Kunalo will also take on project work without the retainer.
+            </p>
 
 <h3 id="public_relations">Public Relations for Software Development Platforms, APIs, SDKs</h3>
 <div style="text-align:left;display:block;margin-right:auto;margin-left:auto">
@@ -375,42 +370,59 @@ Kunalo seeks to nurture creativity, helping people to write beautiful software a
 </table>
 <br />
 </div>
-<div></div>
-<div id="social_media" style="text-align:left;display:block;margin-right:auto;margin-left:auto"><font size="3"><b>Social Media</b></font></div>
-<div style="text-align:left;display:block;margin-right:auto;margin-left:auto"><br />
-</div>
-<div style="text-align:left;display:block;margin-right:auto;margin-left:auto">
-<ul><li>Twitter channel management</li>
-<ul><li>content production (text, picture, video)</li>
-<li>engagement (@reply, #hashtag, other)</li>
-<li>list management</li>
-<li>advertisement management (if applicable)</li>
-<li>creation (if needed)</li>
-<li>promotion</li>
-<li>analysis and reporting</li></ul></ul>
-<br />
-<ul><li>Facebook page management</li>
-<ul><li>content production (text, picture, video)</li>
-<li>engagement and question escalation</li>
-<li>promotion </li>
-<li>analysis and reporting</li></ul></ul>
-</div>
-<div style="text-align:left;display:block;margin-right:auto;margin-left:auto"><br />
-</div>
-<div style="text-align:left;display:block;margin-right:auto;margin-left:auto"><br />
+    </div>
 </div>
 
-<h3 id="funnel"><div id="TOC-Kunalo-Funnel">Kunalo Funnel</div></h3>
-<div style="text-align:left;display:block;margin-right:auto;margin-left:auto">The Kunalo Funnel for software adoption is based on a modification of a marketing funnel.  This type of funnel is often used in a marketing automation systems.  Although the layers look similar.  There are significant differences in how the software adoption funnel operates.</div>
-<div style="text-align:left;display:block;margin-right:auto;margin-left:auto"><br />
+<div id="social_media" class="row spacer">
+    <div class="span12">
+        <h3>Social Media</h3>
+        <p>
+            <ul><li>Twitter channel management</li>
+                <ul><li>content production (text, picture, video)</li>
+                    <li>engagement (@reply, #hashtag, other)</li>
+                    <li>list management</li>
+                    <li>advertisement management (if applicable)</li>
+                    <li>creation (if needed)</li>
+                    <li>promotion</li>
+                    <li>analysis and reporting</li>
+                </ul>
+            </ul>
+        </p>
+        <p>
+            <ul><li>Facebook page management</li>
+                <ul><li>content production (text, picture, video)</li>
+                    <li>engagement and question escalation</li>
+                    <li>promotion </li>
+                    <li>analysis and reporting</li>
+                </ul>
+            </ul>
+        </p>
+    </div>
 </div>
-<div style="text-align:left;display:block;margin-right:auto;margin-left:auto">In a typical marketing campaign, the engagement is usually some form of online engagement such as registration to download a whitepaper.  In a software adoption funnel, the engagement could be at a hackathon, on the comment section of a code distribution web page, or in a forum.  Most significantly, the content used to trigger the download is usually a document that contains code examples. </div>
-<div style="text-align:left;display:block;margin-right:auto;margin-left:auto"><br />
-</div>
-<div style="text-align:left;display:block;margin-right:auto;margin-left:auto">The ability to provide great code examples on how to use the software is common problem that marketers have. Developers running software adoption campaigns usually run into problems with generating awareness.</div><div style="text-align:left;display:block;margin-right:auto;margin-left:auto"><br /></div><div style="text-align:left;display:block;margin-right:auto;margin-left:auto"><div style="display:block;text-align:center;margin-right:auto;margin-left:auto"><a href="http://www.kunalo.com/home/services/Kunalo%20Funnel%20colored.png?attredirects=0" imageanchor="1">
 
-<img border="0" src="img/funnel.png" /></a>
-</div>
+<div class="row spacer">
+    <div class="span12">
+        <h3 id="funnel"><div id="TOC-Kunalo-Funnel">Kunalo Funnel</div></h3>
+        <p>
+            The Kunalo Funnel for software adoption is based on a modification of a marketing funnel.
+            This type of funnel is often used in a marketing automation systems.  Although the layers look similar.
+            There are significant differences in how the software adoption funnel operates.
+        </p>
+        <p>
+            In a typical marketing campaign, the engagement is usually some form of online engagement
+            such as registration to download a whitepaper.  In a software adoption funnel, the engagement
+            could be at a hackathon, on the comment section of a code distribution web page, or in a forum.  Most
+            significantly, the content used to trigger the download is usually a document that contains code examples.
+        </p>
+        <p>
+            The ability to provide great code examples on how to use the software is common problem that marketers have.
+            Developers running software adoption campaigns usually run into problems with generating awareness.
+        </p>
+        <a href="http://www.kunalo.com/home/services/Kunalo%20Funnel%20colored.png?attredirects=0" imageanchor="1">
+            <img border="0" src="img/funnel.png" />
+        </a>
+
+    </div>
 </div>
 
 <div style="text-align:left;display:block;margin-right:auto;margin-left:auto"><div style="display:block;text-align:left"></div><br />
