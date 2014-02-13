@@ -2,3 +2,18 @@
 .spacer {
     margin-top: 35px;
 }
+
+ .carousel-caption {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 10px 15px 5px;
+  background: rgba(0, 0, 0, 0.75);
+  z-index: 10;
+  text-align: left;
+ }
+
+ .carousel-caption p {
+     margin: 0 0 0 0;
+ }
