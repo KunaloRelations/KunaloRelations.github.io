@@ -47,8 +47,9 @@
     </script>
   </head>
 
-  <body>
+  <body data-spy="scroll" data-target="#kunalo-navbar">
 
+  <div id="kunalo-navbar">
     <nav class="navbar navbar-inverse navbar-fixed-top">
         <div class="container-fluid">
         <div class="navbar-header">
@@ -63,10 +64,10 @@
 
         <div class="navbar-collapse collapse" id="kunalo-navbar-collapse">
             <ul class="nav navbar-nav">
-              <li class="active"><a href="index.html">Home</a></li>
-              <li><a href="#services">Services</a></li>
+              <li class="active"><a href="#home">Home</a></li>
               <li><a href="#people">People</a></li>
 	          <li> <a href="#company">Company</a></li>
+              <li><a href="#services">Services</a></li>
 	          <li><a href="http://blog.kunalo.net">Blog</a></li>
 
     <!--           <li class="dropdown"> -->
@@ -80,10 +81,11 @@
               <!--   </ul> -->
               <!-- </li><\!-- dropdown -\-> -->
             </ul><!-- /.nav -->
-   
+
           </div><!--/.nav-collapse -->
         </div>
     </nav><!-- /.navbar -->
+</div>
 
     <div class="container">
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
@@ -99,7 +101,7 @@
       <!--  consult Bootstrap docs at 
             http://twitter.github.com/bootstrap/javascript.html#carousel -->
       <div id="this-carousel-id" class="carousel slide">
-        <div class="carousel-inner">
+        <div id="home" class="carousel-inner">
           <div class="item active">
             <a href="http://kunalorelations.github.io/index.html">  <img src="img/kunalosplashscreen.png" alt="Kunalo Relations Splash Screen" />
             </a>
