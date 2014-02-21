@@ -61,6 +61,6 @@ Original kickstarter video
 
 <iframe width="480" height="360" src="https://www.kickstarter.com/projects/1106670630/mojo-digital-design-for-the-hobbyist/widget/video.html" frameborder="0" scrolling="no"> </iframe>
 
-## Links
+
 
  
