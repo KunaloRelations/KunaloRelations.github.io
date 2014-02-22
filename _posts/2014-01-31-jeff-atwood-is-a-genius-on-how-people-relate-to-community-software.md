@@ -2,6 +2,7 @@
 layout: post
 title: Jeff Atwood is a Genius on How People Relate to Community Software
 date: 2014-01-31
+author: Craig Oda
 comments: false
 ---
 

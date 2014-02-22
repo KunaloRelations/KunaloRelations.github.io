@@ -4,12 +4,13 @@ title: Super Hardware Hacking with Justin Rajewski
 subtitle: CEO of Embedded Micro and FPGA Guru
 date: 2014-02-22
 comments: false
-tags: 
-  - hardware hacking
+author: Craig Oda
+tags:
+  - hardware hackingo
 
 ---
 
-![Justin and Craig](/img/blog/2014/02/justin.jpg "Justin Rajewski, hardware super hacker")
+![Justin and Craig](/img/blog/2014/02/justin.jpg "Justin Rajewski, hardware super hacker"){:.pull-right}
 
 If there were an Olympic medal for hardware hacking, Justin Rajewski, 
 the CEO of 
@@ -68,12 +69,14 @@ it in their shop.
 
 Here's a section from the Embedded Micro site that explains Justin's passion for FPGA:
 
+
 <blockquote>
 <p>
-You can think of an FPGA as a blank slate. By itself an FPGA does nothing. It is up to you (the designer) to create a configuration file, often called a bit file, for the FPGA. Once loaded the FPGA will behave like the digital circuit you designed!
+     You can think of an FPGA as a blank slate. By itself an FPGA does nothing. It is up to you (the designer) to create a configuration file, often called a bit file, for the FPGA. Once loaded the FPGA will behave like the digital circuit you designed!
 </p>
-<pr>
-One of the reasons FPGAs are so awesome is that unlike an ASIC (Application Specific Integrated Circuit) the circuit design is not set and you can reconfigure an FPGA as many times as you like!
+
+<p>
+     One of the reasons FPGAs are so awesome is that unlike an ASIC (Application Specific Integrated Circuit) the circuit design is not set and you can reconfigure an FPGA as many times as you like!
 </p>
 </blockquote>
 
@@ -83,11 +86,11 @@ I'm just glad we have hackers like Justin to fill in the blank slates in technol
 
 Giant Graphic Equalizer made with FPGA
 
-![Giant Graphic Equalizer] (/img/blog/2014/02/make_giant_led.jpg "Giant Graphic Equalizer 2.5 x 1.25 feet")
+![Giant Graphic Equalizer](/img/blog/2014/02/make_giant_led.jpg "Giant Graphic Equalizer 2.5 x 1.25 feet")
 
 Justin's Mojo Board.  When you were in school, did you manufacture FPGA boards in your dorm room?  I didn't.
 
-![Justin's Mojo Board] (/img/blog/2014/02/mojo_board.jpg)
+![Justin's Mojo Board](/img/blog/2014/02/mojo_board.jpg)
 
 Light Cube
 

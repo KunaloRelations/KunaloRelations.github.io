@@ -44,6 +44,17 @@ body {
   font-size: 80%;
 }
 
+.post img {
+  padding: 5px;
+ }
+.meta {
+    font-size: 80%;
+}
+
+.meta span.author,
+.meta span.date {
+    font-style: italic;
+}
 *****************************************************************************/
 /*
 /* Posts
