@@ -6,7 +6,7 @@ date: 2014-02-22
 comments: false
 author: Craig Oda
 tags:
-  - hardware hackingo
+  - hardware hacking
 
 ---
 

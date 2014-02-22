@@ -4,6 +4,8 @@ title: Jeff Atwood is a Genius on How People Relate to Community Software
 date: 2014-01-31
 author: Craig Oda
 comments: false
+tags: [ discourse, community ]
+
 ---
 
 On a sunny Friday afternoon east of the San Francisco Bay, I stopped my spoon of clam chowder in mid-air as I sat
