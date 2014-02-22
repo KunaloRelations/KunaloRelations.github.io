@@ -2,7 +2,7 @@
 layout: post
 title: Super Hardware Hacking with Justin Rajewski 
 subtitle: CEO of Embedded Micro and FPGA Guru
-date: 2014-01-31
+date: 2014-02-22
 comments: false
 tags: 
   - hardware hacking
