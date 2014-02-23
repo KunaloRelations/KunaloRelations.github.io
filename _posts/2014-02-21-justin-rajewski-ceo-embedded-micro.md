@@ -86,11 +86,11 @@ I'm just glad we have hackers like Justin to fill in the blank slates in technol
 
 Giant Graphic Equalizer made with FPGA
 
-![Giant Graphic Equalizer](/img/blog/2014/02/make_giant_led.jpg "Giant Graphic Equalizer 2.5 x 1.25 feet")
+![Giant Graphic Equalizer](/img/blog/2014/02/make_giant_led.jpg "Giant Graphic Equalizer 2.5 x 1.25 feet"){:.img-responsive}
 
 Justin's Mojo Board.  When you were in school, did you manufacture FPGA boards in your dorm room?  I didn't.
 
-![Justin's Mojo Board](/img/blog/2014/02/mojo_board.jpg)
+![Justin's Mojo Board](/img/blog/2014/02/mojo_board.jpg){:.img-responsive}
 
 Light Cube
 
