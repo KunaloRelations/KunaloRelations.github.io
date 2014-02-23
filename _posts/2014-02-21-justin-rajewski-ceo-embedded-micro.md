@@ -10,7 +10,7 @@ tags:
 
 ---
 
-![Justin and Craig](/img/blog/2014/02/justin.jpg "Justin Rajewski, hardware super hacker"){:.pull-right}
+![Justin and Craig](/img/blog/2014/02/justin.jpg "Justin Rajewski, hardware super hacker"){:.pull-right .img-responsive}
 
 If there were an Olympic medal for hardware hacking, Justin Rajewski, 
 the CEO of 
