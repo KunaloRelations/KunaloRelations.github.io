@@ -54,6 +54,8 @@ There were a number of online editors including:
 * StackEdit
 * Mou
 
+A friend of mine also recommended [MultiMarkdown for Mac](http://multimarkdown.com/ "MultiMarkdown editor for Mac)
+
 People on the Ubuntu Discourse forum pointed me to [Sublime Text](http://www.sublimetext.com/ "main sublime site") and [Light Table](http://www.lighttable.com/ "Light Table editor").  Although these look great, I wasn't able to get Light Table to work properly and Sublime is a bit pricey for me.  
 
 For now, MdCharm does the job.
