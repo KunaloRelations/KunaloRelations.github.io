@@ -45,10 +45,11 @@ You can then preview the blog post run through Jekyll at:
 http://localhost:4000
 ```
 
-Mashable [78 Tools for Writing and Previewing Markdown](http://mashable.com/2013/06/24/markdown-tools/ "Mashable article on Markdown tools").
+Mashable compiled a great list of Markdown editors called [78 Tools for Writing and Previewing Markdown](http://mashable.com/2013/06/24/markdown-tools/ "Mashable article on Markdown tools").
 
 
 There were a number of online editors including:
+
 - Dillinger
 - StackEdit
 - Mou
