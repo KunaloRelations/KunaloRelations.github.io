@@ -31,7 +31,7 @@ I was drawn into the Markdown editing world by:
 
 Kunalo recently moved our blog over to Jekyll and I'm writing this blog post in Markdown using a graphic editor called [MdCharm](http://www.mdcharm.com/ "MdCharm main site").  It's not quite as easy as writing a press release in MS Word, but it's easier for me than using a text editor like Emacs.
 
-Images are a bit trick as I haven't figured out how to get them to display properly in the editor.
+Images are a bit tricky as I haven't figured out how to get them to display properly in the editor.
 
 ![mdcharm_screenshot.png](/img/blog/2014/02/mdcharm_screenshot.png " MdCharm Screenshot")
 
@@ -50,9 +50,9 @@ Mashable compiled a great list of Markdown editors called [78 Tools for Writing 
 
 There were a number of online editors including:
 
-- Dillinger
-- StackEdit
-- Mou
+* Dillinger
+* StackEdit
+* Mou
 
 People on the Ubuntu Discourse forum pointed me to [Sublime Text](http://www.sublimetext.com/ "main sublime site") and [Light Table](http://www.lighttable.com/ "Light Table editor").  Although these look great, I wasn't able to get Light Table to work properly and Sublime is a bit pricey for me.  
 
