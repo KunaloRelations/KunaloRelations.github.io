@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Markdown for Marketers 
+title: Using the Markdown in Developer Marketing Campaigns 
 subtitle: A Marketer's Experience with the Popular Markup Language
 date: 2014-02-27
 comments: false
 author: Craig Oda
 tags:
   - marketing tools
-excerpt: Markdown is a popular formatting language often used by developers for documentation or to communicate with each other.  It is often used in readme files, blogs, forums, and question and answer sites.
+excerpt: A Marketer's Experience with the Popular Markup Language. Markdown is a popular formatting language often used by developers for documentation or to communicate with each other.  
 
 ---
 
