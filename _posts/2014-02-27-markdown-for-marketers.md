@@ -1,23 +1,27 @@
 ---
 layout: post
-title: Using the Markdown in Developer Marketing Campaigns 
+title: Reduce Costs of Marketing Content with Markdown
 subtitle: A Marketer's Experience with the Popular Markup Language
 date: 2014-02-27
 comments: false
 author: Craig Oda
 tags:
   - marketing tools
-excerpt: Markdown is a popular formatting language often used by developers for documentation or to communicate with each other.  Marketers need to learn it too.
+---
+<img src = "/img/blog/2014/02/GitHub_head.png" height = "50" hspace="3" align="left">
+	     Markdown is a popular formatting language often 
+	     used by developers for documentation or to communicate 
+	     with each other.  Marketers need to learn it too.
+{{ excerpt_separator}}
 
 ---
-
 ![StackEdit Online Markdown Editor](/img/blog/2014/02/2014-02-27-stackedit.png "StackEdit"){:.pull-right .img-responsive}
 
 ![mdcharm.png](/img/blog/2014/02/mdcharm.png "MdCharm Markup Editor")
 
-[Markdown](http://en.wikipedia.org/wiki/Markdown "Markdown Wikipedia Entry") is a popular formatting language often used by developers for documentation or to communicate with each other.  It is often used in readme files, blogs, forums, and question and answer sites.
+[Markdown](http://en.wikipedia.org/wiki/Markdown "Markdown Wikipedia Entry") is often used in readme files, blogs, forums, and question and answer sites.
 
-{{ excerpt_separator}}
+
 
 GitHub, reddit, Diaspora, [Stack Overflow](http://stackoverflow.com/ "Stack Overflow"), and SourceForge use Markdown.  It is also the common format for documentation engines or static web site generators such as [Jekyll](http://jekyllrb.com/ "Jekyll").  
 

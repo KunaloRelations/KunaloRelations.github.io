@@ -1,22 +1,22 @@
 ---
 layout: post
-title: Super Hardware Hacking with Justin Rajewski 
+title: Become a Super Hardware Hacker with Justin Rajewski 
 subtitle: CEO of Embedded Micro and FPGA Guru
 date: 2014-02-22
 comments: false
 author: Craig Oda
 tags:
   - hardware hacking
-excerpt: If there were an Olympic medal for hardware hacking, Justin Rajewski, the CEO of Embedded Micro, would probably get it.  
+---
+
+<img src = "/img/blog/2014/02/mojo_head.jpg" height = "50" align = "left" hspace="3"> If there were an Olympic medal for hardware hacking, Justin Rajewski, 
+the CEO of 
+<a href="http://embeddedmicro.com/">Embedded Micro</a>, would probably get it.  
+{{ excerpt_separator}}
 
 ---
 
 ![Justin and Craig](/img/blog/2014/02/justin.jpg "Justin Rajewski, hardware super hacker"){:.pull-right .img-responsive}
-
-If there were an Olympic medal for hardware hacking, Justin Rajewski, 
-the CEO of 
-<a href="http://embeddedmicro.com/">Embedded Micro</a>, would probably get it.  
-
 
 While most of us take pride in simply being able to use a 
 soldering iron, Justin is way, way beyond our level.  He

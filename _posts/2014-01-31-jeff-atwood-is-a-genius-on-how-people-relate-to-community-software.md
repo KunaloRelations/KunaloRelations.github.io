@@ -5,16 +5,22 @@ date: 2014-01-31
 author: Craig Oda
 comments: false
 tags: [ discourse, community ]
-excerpt: Kick-ass coder, Stack Overflow founder, and CEO of Discourse relies on sociology and human factor experiments to create code that changes the world
----
 
+---
+<img src = "/img/blog/2014/02/StackOverflow_head.png" align = "left"
+hspace = "3">
+Kick-ass coder, Stack Overflow founder, and CEO of Discourse relies on sociology and human factor experiments to create code that changes the world
+{{excerpt_separator}}
+
+---
 On a sunny Friday afternoon east of the San Francisco Bay, I stopped my spoon of clam chowder in mid-air as I sat
 across the cafe lunch table from Jeff Atwood, the co-founder of <a href="http://stackoverflow.com/" target="_blank">Stack
 Overflow</a> and the founder of <a href="http://www.discourse.org/" target="_blank">Discourse</a>. Jeff was
 explaining to me the basics of online trust and how to encourage people to protect the best interests of the
 community. Unlike many programmers, Jeff started off with a discussion on sociology.
 
-{{post.excerpt_separator}}
+
+
 
 This surprised me
 since he is famous for creating the bad-ass Stack Overflow site that is the number one place for developers to get

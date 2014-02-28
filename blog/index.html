@@ -13,13 +13,19 @@ title: Index
   <ul class="posts">
     {% for post in site.posts %}
       <li>
-        <a href="{{ post.url }}">{{ post.title }}</a> &raquo; 
+        &raquo; <a href="{{ post.url }}">{{ post.title }}</a> 
 
-	<div style ="margin-left: 7em;" >
+	<div style ="margin-left: 4em;" >
 	  <p style = "font-size:11px;">
 	    <span>{{ post.date | date_to_string }}</span>
-	    {{ post.excerpt }} 
-	  </p>
+	   </p>
+	  <div style >
+
+	      <article style = "font-size:11px;">
+	      {{post.excerpt }} 
+	      </article>
+	    </p>
+	  </div>
 	</div>
       </li>
     {% endfor %}
