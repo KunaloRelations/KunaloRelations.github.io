@@ -7,7 +7,7 @@ comments: false
 author: Craig Oda
 tags:
   - marketing tools
-excerpt: A Marketer's Experience with the Popular Markup Language. Markdown is a popular formatting language often used by developers for documentation or to communicate with each other.  
+excerpt: Markdown is a popular formatting language often used by developers for documentation or to communicate with each other.  Marketers need to learn it too.
 
 ---
 
