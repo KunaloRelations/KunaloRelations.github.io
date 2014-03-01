@@ -4,32 +4,33 @@ title: Index
 ---
 
 <div id="home" class="row">
-      <h2>Posts</h2>
+  <div class="col-md-8">
+    <h2>Posts</h2>
+  </div>
 
 </div>
 
 <div class="row">
   <div class="col-md-8">
-  <ul class="posts">
-    {% for post in site.posts %}
+    <ul class="posts">
+      {% for post in site.posts %}
       <li>
-        &raquo; <a href="{{ post.url }}">{{ post.title }}</a> 
+        <h3>
+          &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+        </h3>
 
-	<div style ="margin-left: 4em;" >
-	  <p style = "font-size:11px;">
-	    <span>{{ post.date | date_to_string }}</span>
-	   </p>
-	  
+        <div class="excerpt">
+          <p>
+            {{post.excerpt }}
+          </p>
 
-	      <article style = "font-size:11px;">
-	      {{post.excerpt }} 
-	      </article>
-	      <br />
-	  
-	</div>
+          <p>
+            <span>{{ post.date | date_to_long_string }}</span>
+          </p>
+        </div>
       </li>
-    {% endfor %}
-  </ul>
+      {% endfor %}
+    </ul>
   </div>
   <div class="col-md-3 col-md-offset-1">
     <ul>

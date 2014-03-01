@@ -44,7 +44,6 @@ footer {
 
 .posts span {
   color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
   font-size: 80%;
 }
 
@@ -99,4 +98,15 @@ footer {
 
 .textbottom {
     vertical-align:text-bottom;
+}
+ul.posts {
+    margin: 0;
+    padding: 0;
+}
+
+div.excerpt {
+    margin: 0 0 3em 4em;
+}
+.excerpt p {
+    clear: both;
 }
