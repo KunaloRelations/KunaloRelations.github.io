@@ -13,7 +13,8 @@ Kick-ass coder, Stack Overflow founder, and CEO of Discourse relies on sociology
 {{excerpt_separator}}
 
 ---
-On a sunny Friday afternoon east of the San Francisco Bay, I stopped my spoon of clam chowder in mid-air as I sat
+![Jeff Atwood and Craig Oda][1]{:.pull-right .img-responsive}
+__On a sunny Friday__ afternoon east of the San Francisco Bay, I stopped my spoon of clam chowder in mid-air as I sat
 across the cafe lunch table from Jeff Atwood, the co-founder of <a href="http://stackoverflow.com/" target="_blank">Stack
 Overflow</a> and the founder of <a href="http://www.discourse.org/" target="_blank">Discourse</a>. Jeff was
 explaining to me the basics of online trust and how to encourage people to protect the best interests of the
@@ -87,3 +88,4 @@ human behaviour and online people to people interaction.Check out Discourse.
 
 
 
+[1]: /img/blog/2014/01/atwood.jpg
