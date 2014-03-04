@@ -21,7 +21,7 @@ tags:
 
 [Markdown](http://en.wikipedia.org/wiki/Markdown "Markdown Wikipedia Entry") is often used in by developers and product marketing teams to write readme files, blogs, forums, and question and answer sites.  The primary advantage of Markdown is that it is easy to include code snippets.  Since developers often use code snippets to communicate ideas, marketers need to become more efficient at communicating with code snippets pulled from a forum or the engineering team if they want to effectively reach developers.
 
-GitHub, reddit, Diaspora, [Stack Overflow](http://stackoverflow.com/ "Stack Overflow"), and SourceForge use Markdown.  It is also the common format for documentation engines or static web site generators such as [Jekyll](http://jekyllrb.com/ "Jekyll").  
+GitHub, reddit, Diaspora, [Stack Overflow][1], and [SourceForge](http://sourceforge.net/p/forge/documentation/markdown_syntax/) use Markdown.  It is also the common format for documentation engines or static web site generators such as [Jekyll](http://jekyllrb.com/ "Jekyll").  
 
 To quickly and cheaply publish useful information to developers, marketers should learn to use a Markdown editor at some point.  There are too many Markdown editors to choose from.  Mashable has a list of [78 Markdown tools](http://mashable.com/2013/06/24/markdown-tools/).  It is overwhelming.
  
@@ -92,7 +92,7 @@ The Markdown Here site has several other [great examples](http://markdown-here.c
 
 
 
-
+[1]: http://stackoverflow.com/editing-help
  
 
  
