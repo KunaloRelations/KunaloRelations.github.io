@@ -19,24 +19,23 @@ tags:
 
 ![mdcharm.png](/img/blog/2014/02/mdcharm.png "MdCharm Markup Editor")
 
-[Markdown](http://en.wikipedia.org/wiki/Markdown "Markdown Wikipedia Entry") is often used in by developers and product marketing teams to write readme files, blogs, forums, and question and answer sites.  The primary advantage of Markdown is that it is easy to include code snippets.  Since developers often use code snippets to communicate ideas, marketers need to become more efficient at communicating with code snippets if they want to communicate back and forth with developers.
-
-
+[Markdown](http://en.wikipedia.org/wiki/Markdown "Markdown Wikipedia Entry") is often used in by developers and product marketing teams to write readme files, blogs, forums, and question and answer sites.  The primary advantage of Markdown is that it is easy to include code snippets.  Since developers often use code snippets to communicate ideas, marketers need to become more efficient at communicating with code snippets pulled from a forum or the engineering team if they want to effectively reach developers.
 
 GitHub, reddit, Diaspora, [Stack Overflow](http://stackoverflow.com/ "Stack Overflow"), and SourceForge use Markdown.  It is also the common format for documentation engines or static web site generators such as [Jekyll](http://jekyllrb.com/ "Jekyll").  
 
-To quickly and cheaply publish useful information to developers, marketers will need to deal with Markdown at some point.  There are many ways to avoid using Markdown, but it seems a good skill to have.  
+To quickly and cheaply publish useful information to developers, marketers should learn to use a Markdown editor at some point.  There are too many Markdown editors to choose from.  Mashable has a list of [78 Markdown tools](http://mashable.com/2013/06/24/markdown-tools/).  It is overwhelming.
+ 
+Knowing that Mashable is not site that specifically targets developers, I realized that using a Markdown editor was getting close to mass adoption by non-technical people.  Although there are many alternatives to Markdown and it is easy to avoid using it, Markdown is very popular. You can either fight the trend or use it to your advantage.
 
-For example, one of the really common uses for Markdown is to include a snippet of code into the email, forum post, blog post, response on a QA site, or short piece of documentation.  This may not be a problem for the older generation of marketers that are not putting code snippets into their marketing material, but there's a new crop of marketers, often from product marketing, that are engaging with the community of developers.  This often entails sending some level of short configuration or code snippets to people. 
+One of the really common uses of Markdown is to include a snippet of code into the email, forum post, blog post, response on a QA site, or short piece of documentation.  This may not be a problem for the older generation of marketers that are not putting code snippets into their marketing material, but there's a new crop of marketers, often from product marketing, that are engaging with the community of developers.  This type of marketing often involves sending some level of short configuration or code snippets to people. 
 
-I was drawn into the Markdown editing world by:
+As I marketer, I was pretty happy with using MS Word to write marketing material.  The world changed around me as I found groups in my target audience audience using these tools:
 
 ![GitHub.png](/img/blog/2014/02/GitHub.png "GitHub Cats")
 ![StackOverflow.png](/img/blog/2014/02/StackOverflow.png "Stack Overflow Answers")
 ![Discourse.png](/img/blog/2014/02/Discourse.png "Discourse")
 ![jekyll.png](/img/blog/2014/02/jekyll.png "Jekyll")
 ![octopress.png](/img/blog/2014/02/octopress.png "Octopress")
-
 
 Kunalo recently moved our blog over to Jekyll and I'm writing this blog post in Markdown using a graphic editor called [MdCharm](http://www.mdcharm.com/ "MdCharm main site").  It's not quite as easy as writing a press release in MS Word, but it's easier for me than using a text editor like Emacs.
 
