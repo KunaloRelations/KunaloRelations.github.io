@@ -19,7 +19,7 @@ tags:
 
 ![mdcharm.png](/img/blog/2014/02/mdcharm.png "MdCharm Markup Editor")
 
-[Markdown](http://en.wikipedia.org/wiki/Markdown "Markdown Wikipedia Entry") is often used in readme files, blogs, forums, and question and answer sites.
+[Markdown](http://en.wikipedia.org/wiki/Markdown "Markdown Wikipedia Entry") is often used in by developers and product marketing teams to write readme files, blogs, forums, and question and answer sites.  The primary advantage of Markdown is that it is easy to include code snippets.  Since developers often use code snippets to communicate ideas, marketers need to become more efficient at communicating with code snippets if they want to communicate back and forth with developers.
 
 
 
@@ -81,7 +81,17 @@ Using the browser plug-in, [Markdown Here](http://markdown-here.com/ "Markdown H
 
 The Markdown Here site has several other [great examples](http://markdown-here.com/features.html "great examples of markdown use"). 
 
-<hr>
+---
+
+**Update 2014 March 4**
+
+- wrote a blogger post with [StackEdit.io](https://stackedit.io/) and pubished the post to blogger from within StackEdit.  The blog post contained a section of Python code.  The formatting was preserved.
+- I'm updating this post directly inside of the Jekyll git repository on my local Linux machine with [ReText](http://sourceforge.net/projects/retext/), a package that primarily works on Linux, but can work on Mac OS X with homebrew.
+- I attempted to write a new blog post on blogger with Markdown Here and failed.  The formatting of the Python code got messed up.
+
+
+
+
 
 
  
