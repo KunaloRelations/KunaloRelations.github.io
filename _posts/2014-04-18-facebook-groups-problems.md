@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook Groups Loses Reach and Companies
+title: Facebook Groups Lose Reach and Companies
 date: 2014-04-18
 comments: false
 author: Craig Oda
