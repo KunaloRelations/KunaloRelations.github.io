@@ -14,7 +14,7 @@ Marketers leave for cheaper owned options.
 {{ excerpt_separator}}
 
 ---
-People that subscribe to Facebook Groups now only receive 4% to 6% of the content posted to the group.  This means that a marketer with 10,000 subscribers can only reach a maximum of 60 people per post.  The change was implemented by Facebook in order to incent companies to buy advertising to reach Facebook users.  
+People that subscribe to Facebook Groups now only receive 4% to 6% of the content posted to the group.  This means that a marketer with 1,000 subscribers can only reach a maximum of 60 people per post.  The change was implemented by Facebook in order to incent companies to buy advertising to reach Facebook users.  
 
 Unfortunately, this also kills Facebook Groups as a viable option to host a community.
 
