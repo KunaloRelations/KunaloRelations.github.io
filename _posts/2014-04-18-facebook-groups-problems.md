@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook Groups Lose Reach and Companies
+title: Facebook Pages Lose Reach and Companies
 date: 2014-04-18
 comments: false
 author: Craig Oda
@@ -8,17 +8,17 @@ tags:
   - Facebook
 ---
 <img src = "/img/blog/header/face.png" height = "50" hspace="3" align="left">
-Recent changes by Facebook to their Groups algorithm 
+Recent changes by Facebook to their Pages algorithm 
 dramatically reduces reach of content posted to Facebook Groups.  
 Marketers leave for cheaper owned options.
 {{ excerpt_separator}}
 
 ---
-People that subscribe to Facebook Groups now only receive 4% to 6% of the content posted to the group.  This means that a marketer with 1,000 subscribers can only reach a maximum of 60 people per post.  The change was implemented by Facebook in order to incent companies to buy advertising to reach Facebook users.  
+People that subscribe to Facebook Pages now only receive 4% to 6% of the content posted to the group.  This means that a marketer with 1,000 subscribers can only reach a maximum of 60 people per post.  The change was implemented by Facebook in order to incent companies to buy advertising to reach Facebook users.  
 
-Unfortunately, this also kills Facebook Groups as a viable option to host a community.
+Unfortunately, this also kills Facebook Pages as a viable option to host a community.
 
-The following quote from Eat24 sums up the problem with using Facebook as a
+The following quote from Eat24 sums up the problem with using Facebook Pages as a
 community platform.
 
 >"We give you text posts, delicious food photos, coupons, restaurant 
