@@ -9,7 +9,7 @@ tags:
 ---
 <img src = "/img/blog/header/face.png" height = "50" hspace="3" align="left">
 Recent changes by Facebook to their Pages algorithm 
-dramatically reduces reach of content posted to Facebook Groups.  
+dramatically reduces reach of content posted to Facebook Pages.  
 Marketers leave for cheaper owned options.
 {{ excerpt_separator}}
 
